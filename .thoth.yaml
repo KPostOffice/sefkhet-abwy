@@ -12,7 +12,7 @@ runtime_environments:
     limit_latest_versions: 5
 
 managers:
-  - name: update
+  - name: thoth-advise
     configuration:
       labels: [bot]
   - name: info
